@@ -1,0 +1,165 @@
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\background.jpg
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotLeftStill.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotLeftWalking1.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotLeftWalking2.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotRightStill.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotRightWalkin2.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotRightWalking1.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotStill.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotWalking1.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotWalking2.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\defaultpause.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\defualtpauseoptions.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\dresser.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\exit.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\Instructions.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\key.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\LeftStill.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\LeftWalking1.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\LeftWalking2.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\options.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\play.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\Player.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\rectangle.jpg
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\RightWalking1.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\RightWalking2.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\shock.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\StairsLeft.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\StairsRight.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\StairsTop.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\steam.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\switch.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\SwtichVerticle.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopLeftStill.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopLeftWalking2.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopLeftWalkint1.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopRightSTill.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopRightWalking1.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopRightWalkint2.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopStill.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopWalking1.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopWalking2.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\valveverticle.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\WallVerticle.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\WallVerticlewithDoor.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\WallVerticlewithDoorOpen.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\WallwithDoor.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\WallwithDoorOpen.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TimesNewRoman12.xnb
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\bookcase.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\door.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\floor.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\pause.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\pausedText.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\pitfall.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\ruble.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\stairs.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\valve.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\wall.png
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\TuneSquad_Shipwrecked.exe
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\TuneSquad_Shipwrecked.pdb
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.dll
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.xml
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\obj\x86\Debug\TuneSquad_Shipwrecked.csprojResolveAssemblyReference.cache
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\obj\x86\Debug\TuneSquad_Shipwrecked.exe
+C:\Users\satch\Desktop\tunesquad\TuneSquad_Shipwrecked\obj\x86\Debug\TuneSquad_Shipwrecked.pdb
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\obj\x86\Debug\TuneSquad_Shipwrecked.exe
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\obj\x86\Debug\TuneSquad_Shipwrecked.pdb
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\background.jpg
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\bookcase.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotLeftStill.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotLeftWalking1.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotLeftWalking2.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotRightStill.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotRightWalkin2.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotRightWalking1.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotStill.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotWalking1.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\BotWalking2.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\defaultpause.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\defualtpauseoptions.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\door.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\dresser.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\exit.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\floor.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\Instructions.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\key.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\LeftStill.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\LeftWalking1.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\LeftWalking2.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\options.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\pause.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\pitfall.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\play.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\Player.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\rectangle.jpg
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\RightWalking1.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\RightWalking2.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\ruble.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\shock.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\stairs.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\StairsLeft.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\StairsRight.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\StairsTop.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\steam.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\switch.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\SwtichVerticle.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopLeftStill.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopLeftWalking2.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopLeftWalkint1.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopRightSTill.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopRightWalking1.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopRightWalkint2.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopStill.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopWalking1.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TopWalking2.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\valve.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\valveverticle.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\wall.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\WallVerticle.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\WallVerticlewithDoor.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\WallVerticlewithDoorOpen.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\WallwithDoor.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\WallwithDoorOpen.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\TimesNewRoman12.xnb
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Content\pausedText.png
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\TuneSquad_Shipwrecked.exe
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\TuneSquad_Shipwrecked.pdb
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.dll
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\Lidgren.Network.dll
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.xml
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\satch\Desktop\Work and Misc\Projects\tunesquad\tunesquad\TuneSquad_Shipwrecked\obj\x86\Debug\TuneSquad_Shipwrecked.csprojResolveAssemblyReference.cache
